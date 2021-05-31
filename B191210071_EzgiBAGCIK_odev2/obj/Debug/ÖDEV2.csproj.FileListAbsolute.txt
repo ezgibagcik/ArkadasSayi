@@ -1,0 +1,10 @@
+C:\Users\Ezgi\source\repos\ÖDEV2\ÖDEV2\bin\Debug\ÖDEV2.exe.config
+C:\Users\Ezgi\source\repos\ÖDEV2\ÖDEV2\bin\Debug\ÖDEV2.exe
+C:\Users\Ezgi\source\repos\ÖDEV2\ÖDEV2\bin\Debug\ÖDEV2.pdb
+C:\Users\Ezgi\source\repos\ÖDEV2\ÖDEV2\obj\Debug\ÖDEV2.csprojAssemblyReference.cache
+C:\Users\Ezgi\source\repos\ÖDEV2\ÖDEV2\obj\Debug\ÖDEV2.Form1.resources
+C:\Users\Ezgi\source\repos\ÖDEV2\ÖDEV2\obj\Debug\ÖDEV2.Properties.Resources.resources
+C:\Users\Ezgi\source\repos\ÖDEV2\ÖDEV2\obj\Debug\ÖDEV2.csproj.GenerateResource.cache
+C:\Users\Ezgi\source\repos\ÖDEV2\ÖDEV2\obj\Debug\ÖDEV2.csproj.CoreCompileInputs.cache
+C:\Users\Ezgi\source\repos\ÖDEV2\ÖDEV2\obj\Debug\ÖDEV2.exe
+C:\Users\Ezgi\source\repos\ÖDEV2\ÖDEV2\obj\Debug\ÖDEV2.pdb
